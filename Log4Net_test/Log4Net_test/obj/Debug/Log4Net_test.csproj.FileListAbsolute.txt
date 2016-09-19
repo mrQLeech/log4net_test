@@ -1,0 +1,8 @@
+D:\github\log4net_test\Log4Net_test\Log4Net_test\bin\Debug\Log4Net_test.exe
+D:\github\log4net_test\Log4Net_test\Log4Net_test\bin\Debug\Log4Net_test.pdb
+D:\github\log4net_test\Log4Net_test\Log4Net_test\bin\Debug\log4net.dll
+D:\github\log4net_test\Log4Net_test\Log4Net_test\bin\Debug\log4net.xml
+D:\github\log4net_test\Log4Net_test\Log4Net_test\obj\Debug\Log4Net_test.csprojResolveAssemblyReference.cache
+D:\github\log4net_test\Log4Net_test\Log4Net_test\obj\Debug\Log4Net_test.exe
+D:\github\log4net_test\Log4Net_test\Log4Net_test\obj\Debug\Log4Net_test.pdb
+D:\github\log4net_test\Log4Net_test\Log4Net_test\bin\Debug\Log4Net_test.exe.config

@@ -1,0 +1,6 @@
+2016-09-19 19:25:21,558 [9] ERROR Log4Net_test.Program - Error Message: Index and length must refer to a location within the string.
+Parameter name: length
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Log4Net_test.Program.Testing() in D:\github\log4net_test\Log4Net_test\Log4Net_test\Program.cs:line 23
